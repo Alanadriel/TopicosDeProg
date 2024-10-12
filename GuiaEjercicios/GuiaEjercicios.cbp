@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GuiaEjercicios" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GuiaEjercicios" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GuiaEjercicios" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../Librerias/Archivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Librerias/Archivos.h" />
+		<Unit filename="../Librerias/Cadenas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Librerias/Cadenas.h" />
+		<Unit filename="../Librerias/Dinamicos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Librerias/Dinamicos.h" />
+		<Unit filename="../Librerias/Genericos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Librerias/Genericos.h" />
+		<Unit filename="../Librerias/LVectores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Librerias/LVectores.h" />
+		<Unit filename="../Librerias/MATEMATICAS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Librerias/MATEMATICAS.h" />
+		<Unit filename="../Librerias/Matrices.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Librerias/Matrices.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

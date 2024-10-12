@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1725629885 source:c:\unlam\2c2024topicos\librerias\lvectores.c
+	"C:\Unlam\2C2024TOPICOS\Librerias\LVectores.h"
+
+1723918357 source:c:\unlam\2c2024topicos\librerias\matematicas.c
+	"MATEMATICAS.h"
+
+1723918313 c:\unlam\2c2024topicos\librerias\matematicas.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1728499548 source:c:\unlam\2c2024topicos\guiaejercicios\main.c
+	"C:\Unlam\2C2024TOPICOS\Librerias\LVectores.h"
+	"C:\Unlam\2C2024TOPICOS\Librerias\Matrices.h"
+	"..\Librerias\Genericos.h"
+	"..\Librerias\Cadenas.h"
+	"..\Librerias\Dinamicos.h"
+	"../Librerias/Archivos.h"
+
+1725126713 c:\unlam\2c2024topicos\librerias\lvectores.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1725971030 source:c:\unlam\2c2024topicos\librerias\matrices.c
+	"C:\Unlam\2C2024TOPICOS\Librerias\Matrices.h"
+
+1725969916 c:\unlam\2c2024topicos\librerias\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1725629854 source:c:\unlam\2c2024topicos\guiaejercicios\mainmatri.c
+	"C:\Unlam\2C2024TOPICOS\Librerias\Matrices.h"
+
+1728496857 source:c:\unlam\2c2024topicos\librerias\genericos.c
+	"..\Librerias\Genericos.h"
+
+1728496835 c:\unlam\2c2024topicos\librerias\genericos.h
+	<stdio.h>
+	<stdlib.h>
+
+1726350434 source:c:\unlam\2c2024topicos\librerias\cadenas.c
+	"..\Librerias\Cadenas.h"
+
+1726350277 c:\unlam\2c2024topicos\librerias\cadenas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728148718 c:\unlam\2c2024topicos\librerias\dinamicos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728153272 source:c:\unlam\2c2024topicos\librerias\dinamicos.c
+	"..\Librerias\Dinamicos.h"
+
+1728499135 source:c:\unlam\2c2024topicos\librerias\archivos.c
+
+1728503264 c:\unlam\2c2024topicos\librerias\archivos.h
+	<stdlib.h>
+	<stdio.h>
+
